@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/KTRan453/TodoList-Redux/static/css/main.a81e1fa4.chunk.css",
-    "main.js": "/KTRan453/TodoList-Redux/static/js/main.454fc3cf.chunk.js",
-    "main.js.map": "/KTRan453/TodoList-Redux/static/js/main.454fc3cf.chunk.js.map",
-    "runtime-main.js": "/KTRan453/TodoList-Redux/static/js/runtime-main.c4bf9368.js",
-    "runtime-main.js.map": "/KTRan453/TodoList-Redux/static/js/runtime-main.c4bf9368.js.map",
-    "static/css/2.ffdb8956.chunk.css": "/KTRan453/TodoList-Redux/static/css/2.ffdb8956.chunk.css",
-    "static/js/2.e17d3296.chunk.js": "/KTRan453/TodoList-Redux/static/js/2.e17d3296.chunk.js",
-    "static/js/2.e17d3296.chunk.js.map": "/KTRan453/TodoList-Redux/static/js/2.e17d3296.chunk.js.map",
-    "index.html": "/KTRan453/TodoList-Redux/index.html",
-    "static/css/2.ffdb8956.chunk.css.map": "/KTRan453/TodoList-Redux/static/css/2.ffdb8956.chunk.css.map",
-    "static/css/main.a81e1fa4.chunk.css.map": "/KTRan453/TodoList-Redux/static/css/main.a81e1fa4.chunk.css.map",
-    "static/js/2.e17d3296.chunk.js.LICENSE.txt": "/KTRan453/TodoList-Redux/static/js/2.e17d3296.chunk.js.LICENSE.txt"
+    "main.css": "/TodoList-Redux/static/css/main.a81e1fa4.chunk.css",
+    "main.js": "/TodoList-Redux/static/js/main.454fc3cf.chunk.js",
+    "main.js.map": "/TodoList-Redux/static/js/main.454fc3cf.chunk.js.map",
+    "runtime-main.js": "/TodoList-Redux/static/js/runtime-main.14e6efb5.js",
+    "runtime-main.js.map": "/TodoList-Redux/static/js/runtime-main.14e6efb5.js.map",
+    "static/css/2.ffdb8956.chunk.css": "/TodoList-Redux/static/css/2.ffdb8956.chunk.css",
+    "static/js/2.a6ddc1fe.chunk.js": "/TodoList-Redux/static/js/2.a6ddc1fe.chunk.js",
+    "static/js/2.a6ddc1fe.chunk.js.map": "/TodoList-Redux/static/js/2.a6ddc1fe.chunk.js.map",
+    "index.html": "/TodoList-Redux/index.html",
+    "static/css/2.ffdb8956.chunk.css.map": "/TodoList-Redux/static/css/2.ffdb8956.chunk.css.map",
+    "static/css/main.a81e1fa4.chunk.css.map": "/TodoList-Redux/static/css/main.a81e1fa4.chunk.css.map",
+    "static/js/2.a6ddc1fe.chunk.js.LICENSE.txt": "/TodoList-Redux/static/js/2.a6ddc1fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4bf9368.js",
+    "static/js/runtime-main.14e6efb5.js",
     "static/css/2.ffdb8956.chunk.css",
-    "static/js/2.e17d3296.chunk.js",
+    "static/js/2.a6ddc1fe.chunk.js",
     "static/css/main.a81e1fa4.chunk.css",
     "static/js/main.454fc3cf.chunk.js"
   ]
